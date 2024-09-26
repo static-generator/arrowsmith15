@@ -1,8 +1,9 @@
 # Arrowsmith
 ## CN 15 | Maddox Ilao
 - I am a student of **Ateneo De Naga University Junior High School.** I like to draw, write stories, play video games, and listen to music. I have an interest of playing an electric guitar. My favorite indie music group is [Mili](https://www.youtube.com/channel/UCVh47EKH9VLresRqiYi9txw)
+
+- <img src="https://images.squarespace-cdn.com/content/v1/52143a7ae4b0f9bd8308dc73/1562163883783-GMM973J7GIXPAV6TCEQK/Mili+logo_no+back_SQ.png?format=1500w" width="400">
 ---
-![alt text](https://github.com/static-generator/arrowsmith15/blob/5f516864014303eb342a2b03ef38cb1e85beff42/Mili%2Blogo_no%2Bback_SQ%20(1).png)
 - My favorite songs from Mili are
 > Compass
 - <img src="https://i.scdn.co/image/ab67616d0000b273fff7c567fe1a0a5144862109" width="500">
