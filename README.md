@@ -11,7 +11,7 @@
 - <img src="https://i.ytimg.com/vi/ESx_hy1n7HA/maxresdefault.jpg" width="500">
 ---
 ## Video Games
-- I like RPG, rhythm, management, and strategy games. I also play gacha games too; although, I don't spend much time on them compared to other genres.
+- I like RPG, rhythm, management, a bit of gacha, and strategy games. If it has good story; I'll play it.
 ### If I were to name a few games:
 > Risk of Rain 2
 - <img src="https://upload.wikimedia.org/wikipedia/en/c/c1/Risk_of_Rain_2.jpg" width="300">
@@ -21,4 +21,4 @@
 >
 > Rain World
 - <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/312520/header.jpg?t=1723129706" width="500">
-> 
+> And finally, 
