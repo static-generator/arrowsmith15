@@ -12,4 +12,13 @@
 ---
 ## Video Games
 - I like RPG, rhythm, management, and strategy games. I also play gacha games too; although, I don't spend much time on them compared to other genres.
-- 
+### If I were to name a few games:
+> Risk of Rain 2
+- <img src="https://upload.wikimedia.org/wikipedia/en/c/c1/Risk_of_Rain_2.jpg" width="300">
+>
+> Lobotomy Corporation
+- <img src="https://fontmeme.com/images/lobcorp-logo-font.png" width="300">
+>
+> Rain World
+- <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/312520/header.jpg?t=1723129706" width="500">
+> 
